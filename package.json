@@ -3,7 +3,7 @@
   "author": "minimals.cc",
   "licence": "MIT",
   "version": "1.5.0",
-  "homepage": "https://muzamil-07.github.io/HSMS/dashboard/app",
+  "homepage": "https://hsms-muzamil-07.vercel.app/",
   "private": false,
   "scripts": {
     "start": "react-scripts start",
